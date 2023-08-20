@@ -1,0 +1,26 @@
+.container{
+   background-image:linear-gradient(0.25turn,#0096d0, #1d4e9d, #284995, #463e81, #762c61, #b91435, #e3051a, #940c22);
+  text-align:center;
+  width:50%;
+  justify-content: center;
+  margin:5% 25% 30% 25%;
+  border-radius:15px;
+  align-items: center;
+}
+.block1{
+    display:flex;
+    justify-content: space-between;
+    padding:5%;
+    margin:5%;
+    background-image:linear-gradient(#2BBFA7,#FFC600);
+    border-radius:20px;
+    font-size:150%;
+}
+.ce input{
+    width: 110%;
+    height: 30px;
+    background: white;
+    border-radius: 5px;
+    text-align: center;
+
+}
